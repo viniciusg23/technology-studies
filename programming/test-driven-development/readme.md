@@ -11,10 +11,14 @@ Não podem ser capturados pela IDE ou compilador já que são gerados em tempo d
 Ex: Divisão com denominador zero (a IDE não irá perceber isso antes da execução do código).
 ### Erros semânticos ou de lógica
 São os erros mais difíceis de se detectar já que o código estará funcionando mas a saída estará incorreta de acordo com a proposta inicial do programa.
+
 - - -
+ 
 ## Princípio de Teste de Software
 O objeto de um teste dentro de um software é responder se o sistema foi construído corretamente e determinar se foi construído o sistema certo (de acordo com a proposta inicial do programa).
+
 - - -
+ 
 ## Teste unitário
 > Eles envolvem a verificação de pequenas unidades isoladas de código, como funções ou métodos, para garantir que eles funcionem conforme o esperado.
 
@@ -28,8 +32,11 @@ O objeto de um teste dentro de um software é responder se o sistema foi constru
 
 ### Under testing x Over testing
 Em um sistema não se deve testar literalmente cada elemento, já que isso irá causar um custo muito alto de testes durante o desenvolvimento do software, assim como, não se deve fazer poucos testes já que os erros que passarão despercebidos irão causar um custo muito alto no futuro de projeto para serem solucionados.
-  ![](Test-Driven%20Development%20%28TDD%29/sketch.png)
+
+![](./image1.png)
+  
 - - -
+ 
 ## Teste-driven Development (TDD)
 Teste Driven Development é uma técnica utilizada para desenvolvimento de software a partir de testes unitários feito antes da implementação de uma novo componente. 
 ### Como funciona:
