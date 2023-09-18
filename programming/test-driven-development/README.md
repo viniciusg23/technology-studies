@@ -43,7 +43,7 @@ Teste Driven Development é uma técnica utilizada para desenvolvimento de softw
 
 **Repita o processo…**
 - - -
-## Bibliotecas e F	rameworks de Testes
+## Bibliotecas e Frameworks de Testes
 ### Java
 - [JUnit 5](https://junit.org/junit5/docs/current/user-guide/)
 ### Javascript / Typescript
